@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Hello = () => {
-    console.log("I am client compoent")
+    console.log("I am client components")
     return (
         <div>
             I am client component

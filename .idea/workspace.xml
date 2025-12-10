@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfe89fe-dbb5-4e91-bad1-bddb4aeca5e1" name="Changes" comment="layout in nextjs">
+      <change afterPath="$PROJECT_DIR$/app/(root)/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/loader.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dashboard/users/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/users/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/about/Page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/about/Page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/hello.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/hello.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +60,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
     &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
@@ -72,6 +78,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NextJs16\app\(root)" />
       <recent name="D:\NextJs16" />
     </key>
   </component>
@@ -108,6 +115,10 @@
       <workItem from="1764804320454" duration="299000" />
       <workItem from="1764981282407" duration="4034000" />
       <workItem from="1765030192989" duration="1019000" />
+      <workItem from="1765196757285" duration="54000" />
+      <workItem from="1765196840845" duration="3738000" />
+      <workItem from="1765240026714" duration="678000" />
+      <workItem from="1765282207175" duration="1574000" />
     </task>
     <task id="LOCAL-00001" summary="layout in nextjs">
       <option name="closed" value="true" />
